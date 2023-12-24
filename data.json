@@ -1,0 +1,476 @@
+{
+  "bpm": [
+    {
+      "bpmAvg": null,
+      "id": 1
+    },
+    {
+      "bpmAvg": null,
+      "id": 2
+    },
+    {
+      "bpmAvg": null,
+      "id": 3
+    },
+    {
+      "bpmAvg": null,
+      "id": 4
+    },
+    {
+      "bpmAvg": 0,
+      "id": 5
+    },
+    {
+      "bpmAvg": 0,
+      "id": 6
+    },
+    {
+      "bpmAvg": 0,
+      "id": 7
+    },
+    {
+      "bpmAvg": 0,
+      "id": 8
+    },
+    {
+      "bpmAvg": 0,
+      "id": 9
+    },
+    {
+      "bpmAvg": 0,
+      "id": 10
+    },
+    {
+      "bpmAvg": 0,
+      "id": 11
+    },
+    {
+      "bpmAvg": 0,
+      "id": 12
+    },
+    {
+      "bpmAvg": 0,
+      "id": 13
+    },
+    {
+      "bpmAvg": 0,
+      "id": 14
+    },
+    {
+      "bpmAvg": 0,
+      "id": 15
+    },
+    {
+      "bpmAvg": 0,
+      "id": 16
+    },
+    {
+      "bpmAvg": 0,
+      "id": 17
+    },
+    {
+      "bpmAvg": 0,
+      "id": 18
+    },
+    {
+      "bpmAvg": 0,
+      "id": 19
+    },
+    {
+      "bpmAvg": 0,
+      "id": 20
+    },
+    {
+      "bpmAvg": 0,
+      "id": 21
+    },
+    {
+      "bpmAvg": 0,
+      "id": 22
+    },
+    {
+      "bpmAvg": 0,
+      "id": 23
+    },
+    {
+      "bpmAvg": 0,
+      "id": 24
+    },
+    {
+      "bpmAvg": 0,
+      "id": 25
+    },
+    {
+      "bpmAvg": 0,
+      "id": 26
+    },
+    {
+      "bpmAvg": 0,
+      "id": 27
+    },
+    {
+      "bpmAvg": 0,
+      "id": 28
+    },
+    {
+      "bpmAvg": 0,
+      "id": 29
+    },
+    {
+      "bpmAvg": 0,
+      "id": 30
+    },
+    {
+      "bpmAvg": 0,
+      "id": 31
+    },
+    {
+      "bpmAvg": 0,
+      "id": 32
+    },
+    {
+      "bpmAvg": 0,
+      "id": 33
+    },
+    {
+      "bpmAvg": 0,
+      "id": 34
+    },
+    {
+      "bpmAvg": 0,
+      "id": 35
+    },
+    {
+      "bpmAvg": 0,
+      "id": 36
+    },
+    {
+      "bpmAvg": 0,
+      "id": 37
+    },
+    {
+      "bpmAvg": 0,
+      "id": 38
+    },
+    {
+      "bpmAvg": 0,
+      "id": 39
+    },
+    {
+      "bpmAvg": 0,
+      "id": 40
+    },
+    {
+      "bpmAvg": 0,
+      "id": 41
+    },
+    {
+      "bpmAvg": 0,
+      "id": 42
+    },
+    {
+      "bpmAvg": 0,
+      "id": 43
+    },
+    {
+      "bpmAvg": 0,
+      "id": 44
+    },
+    {
+      "bpmAvg": 0,
+      "id": 45
+    },
+    {
+      "bpmAvg": 0,
+      "id": 46
+    },
+    {
+      "bpmAvg": 0,
+      "id": 47
+    },
+    {
+      "bpmAvg": 0,
+      "id": 48
+    },
+    {
+      "bpmAvg": 0,
+      "id": 49
+    },
+    {
+      "bpmAvg": 0,
+      "id": 50
+    },
+    {
+      "bpmAvg": 0,
+      "id": 51
+    },
+    {
+      "bpmAvg": 34,
+      "id": 52
+    },
+    {
+      "bpmAvg": 34,
+      "id": 53
+    },
+    {
+      "bpmAvg": 45,
+      "id": 54
+    },
+    {
+      "bpmAvg": 69,
+      "id": 55
+    },
+    {
+      "bpmAvg": 69,
+      "id": 56
+    },
+    {
+      "bpmAvg": 69,
+      "id": 57
+    },
+    {
+      "bpmAvg": 69,
+      "id": 58
+    },
+    {
+      "bpmAvg": 74,
+      "id": 59
+    },
+    {
+      "bpmAvg": 74,
+      "id": 60
+    },
+    {
+      "bpmAvg": 51,
+      "id": 61
+    },
+    {
+      "bpmAvg": 62,
+      "id": 62
+    },
+    {
+      "bpmAvg": 62,
+      "id": 63
+    },
+    {
+      "bpmAvg": 62,
+      "id": 64
+    },
+    {
+      "bpmAvg": 62,
+      "id": 65
+    },
+    {
+      "bpmAvg": 63,
+      "id": 66
+    },
+    {
+      "bpmAvg": 75,
+      "id": 67
+    },
+    {
+      "bpmAvg": 76,
+      "id": 68
+    },
+    {
+      "bpmAvg": 76,
+      "id": 69
+    },
+    {
+      "bpmAvg": 72,
+      "id": 70
+    },
+    {
+      "bpmAvg": 72,
+      "id": 71
+    },
+    {
+      "bpmAvg": 85,
+      "id": 72
+    },
+    {
+      "bpmAvg": 85,
+      "id": 73
+    },
+    {
+      "bpmAvg": 86,
+      "id": 74
+    },
+    {
+      "bpmAvg": 86,
+      "id": 75
+    },
+    {
+      "bpmAvg": 75,
+      "id": 76
+    },
+    {
+      "bpmAvg": 78,
+      "id": 77
+    },
+    {
+      "bpmAvg": 76,
+      "id": 78
+    },
+    {
+      "bpmAvg": 79,
+      "id": 79
+    },
+    {
+      "bpmAvg": 91,
+      "id": 80
+    },
+    {
+      "bpmAvg": 88,
+      "id": 81
+    },
+    {
+      "bpmAvg": 88,
+      "id": 82
+    },
+    {
+      "bpmAvg": 79,
+      "id": 83
+    },
+    {
+      "bpmAvg": 76,
+      "id": 84
+    },
+    {
+      "bpmAvg": 78,
+      "id": 85
+    },
+    {
+      "bpmAvg": 81,
+      "id": 86
+    },
+    {
+      "bpmAvg": 91,
+      "id": 87
+    },
+    {
+      "bpmAvg": 91,
+      "id": 88
+    },
+    {
+      "bpmAvg": 89,
+      "id": 89
+    },
+    {
+      "bpmAvg": 90,
+      "id": 90
+    },
+    {
+      "bpmAvg": 90,
+      "id": 91
+    },
+    {
+      "bpmAvg": 79,
+      "id": 92
+    },
+    {
+      "bpmAvg": 80,
+      "id": 93
+    },
+    {
+      "bpmAvg": 81,
+      "id": 94
+    },
+    {
+      "bpmAvg": 77,
+      "id": 95
+    },
+    {
+      "bpmAvg": 92,
+      "id": 96
+    },
+    {
+      "bpmAvg": 91,
+      "id": 97
+    },
+    {
+      "bpmAvg": 91,
+      "id": 98
+    },
+    {
+      "bpmAvg": 90,
+      "id": 99
+    },
+    {
+      "bpmAvg": 95,
+      "id": 100
+    },
+    {
+      "bpmAvg": 89,
+      "id": 101
+    },
+    {
+      "bpmAvg": 88,
+      "id": 102
+    },
+    {
+      "bpmAvg": 88,
+      "id": 103
+    },
+    {
+      "bpmAvg": 88,
+      "id": 104
+    },
+    {
+      "bpmAvg": 88,
+      "id": 105
+    },
+    {
+      "bpmAvg": 88,
+      "id": 106
+    },
+    {
+      "bpmAvg": 88,
+      "id": 107
+    },
+    {
+      "bpmAvg": 88,
+      "id": 108
+    },
+    {
+      "bpmAvg": 88,
+      "id": 109
+    },
+    {
+      "bpmAvg": 88,
+      "id": 110
+    },
+    {
+      "bpmAvg": 88,
+      "id": 111
+    },
+    {
+      "bpmAvg": 88,
+      "id": 112
+    },
+    {
+      "bpmAvg": 88,
+      "id": 113
+    },
+    {
+      "bpmAvg": 88,
+      "id": 114
+    },
+    {
+      "bpmAvg": 88,
+      "id": 115
+    },
+    {
+      "bpmAvg": 88,
+      "id": 116
+    },
+    {
+      "bpmAvg": 88,
+      "id": 117
+    },
+    {
+      "bpmAvg": 88,
+      "id": 118
+    }
+  ]
+}
