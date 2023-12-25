@@ -16,7 +16,7 @@
 ## การออกแบบระบบ
 
 แสดงสถาปัตยกรรมระบบ (Systems Architecture)
-![image](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/36c77ab6-e3b6-4e39-afdf-0a7cab1ab660/test.png)
+![image](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/36c77ab6-e3b6-4e39-afdf-0a7cab1ab660/test1.png)
 
 - โมดูลที่หนึ่ง Arduino UNO จะทำการอ่านค่าจากเซ็นเซอร์วัดอัตราการเต้นของหัวใจ (GY-MAX30102) และทำการ print ออกทาง Serial
 - โมดูลที่สอง Arduino UNO จะส่งค่าเฉลี่ยอัตราการเต้นของหัวใจทางจอแสดงผล OLED
@@ -28,7 +28,7 @@
 - โมดูลที่แปด Arduino UNO ทำการอ่านค่าจาก Serial เพื่อควบคุมการเปิด-ปิดเว็นเซอร์ 
 
 แสดงสถาปัตยกรรมซอฟต์แวร์ (Software Architecture)
-![ang](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/62a65578-34c2-4080-b35d-e968a550ecf7/test.png)
+![ang](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/62a65578-34c2-4080-b35d-e968a550ecf7/test2.png)
 
 - โมดูลที่หนึ่ง Arduino UNO จะทำการอ่านค่าจากเซ็นเซอร์วัดอัตราการเต้นของหัวใจ (GY-MAX30102) และทำการ print ออกทาง Serial
 - โมดูลที่สอง Arduino UNO จะส่งค่าเฉลี่ยอัตราการเต้นของหัวใจทางจอแสดงผล OLED
@@ -83,13 +83,13 @@
 ## การทดสอบ
 ### สถานการณ์ 1 เมื่อสั่งปิดใช้งานตัวของเซ็นเซอร์ผ่านเว็บไซต์ จอ OLED จะแสดงข้อความว่า Sensor is off
 - ผลการทดลอง:
-- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/c157a98c-1600-40a6-881f-372c007e9afa)
-- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/344efbc3-ddc0-4b2c-b784-6d4a10b0be71)
+- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/c157a98c-1600-40a6-881f-372c007e9afa/test3.png)
+- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/344efbc3-ddc0-4b2c-b784-6d4a10b0be71/test4.png)
 
 ### สถานการณ์ 2 เมื่อสั่งเปิดใช้งานตัวของเซ็นเซอร์ผ่านเว็บไซต์ จอ OLED จะแสดงค่าเฉลี่ยอัตราการเต้นของหัวใจขึ้น พร้อมทั้งในหน้าเว็บก็จะแสดงเช่นเดียวกัน
 - ผลการทดลอง:
-- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/ab3e73aa-4b31-42fa-8921-406bcc6044ee)
-- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/c51352a9-8153-4cc4-9f6d-fab315a0ae44)
+- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/ab3e73aa-4b31-42fa-8921-406bcc6044ee/test5.png)
+- ![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/c51352a9-8153-4cc4-9f6d-fab315a0ae44/test6.png)
 
 ## สรุปผลการทดสอบ
 โครงงานนี้สามารถควบคุมเซ็นเซอร์ผ่านเว็บไซต์และแสดงสถานะในจอ OLED ตามที่กำหนดไว้ซึ่งสามารถติดตามอัตราการเต้นของหัวใจได้แบบ real-time ช่วยให้การดูแลสุขภาพเป็นไปอย่างมีประสิทธิภาพ
