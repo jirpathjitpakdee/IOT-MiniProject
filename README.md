@@ -16,7 +16,8 @@
 ## การออกแบบระบบ
 
 แสดงสถาปัตยกรรมระบบ (Systems Architecture)
-![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/8cb35c66-99be-4f37-85f6-4df3eb26a2bd)
+![image](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/36c77ab6-e3b6-4e39-afdf-0a7cab1ab660/test.png)
+
 - โมดูลที่หนึ่ง Arduino UNO จะทำการอ่านค่าจากเซ็นเซอร์วัดอัตราการเต้นของหัวใจ (GY-MAX30102) และทำการ print ออกทาง Serial
 - โมดูลที่สอง Arduino UNO จะส่งค่าเฉลี่ยอัตราการเต้นของหัวใจทางจอแสดงผล OLED
 - โมดูลที่สาม ESP8266 ทำการอ่านค่าเฉลี่ยอัตราการเต้นของหัวใจจาก Serial จากนั้นทำการ Publish ค่าไปยัง MQTT
@@ -27,7 +28,8 @@
 - โมดูลที่แปด Arduino UNO ทำการอ่านค่าจาก Serial เพื่อควบคุมการเปิด-ปิดเว็นเซอร์ 
 
 แสดงสถาปัตยกรรมซอฟต์แวร์ (Software Architecture)
-![image](https://github.com/jirpathjitpakdee/Project-Iot/assets/68944270/9f9dfe72-8432-4c5b-9d77-ca762160b867)
+![ang](https://github.com/jirpathjitpakdee/IOT-MiniProject/assets/68944270/62a65578-34c2-4080-b35d-e968a550ecf7/test.png)
+
 - โมดูลที่หนึ่ง Arduino UNO จะทำการอ่านค่าจากเซ็นเซอร์วัดอัตราการเต้นของหัวใจ (GY-MAX30102) และทำการ print ออกทาง Serial
 - โมดูลที่สอง Arduino UNO จะส่งค่าเฉลี่ยอัตราการเต้นของหัวใจทางจอแสดงผล OLED
 - โมดูลที่สาม ESP8266 ทำการอ่านค่าเฉลี่ยอัตราการเต้นของหัวใจจาก Serial จากนั้นทำการ Publish ค่าไปยัง MQTT ใน Topic “HR”
